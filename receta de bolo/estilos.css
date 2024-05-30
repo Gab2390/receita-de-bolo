@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* Fundo branco claro */
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d5d5d5;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    color: #444;
+    font-weight: bold; /* Negrito para o título */
+}
+
+.sessaoFoto img {
+    width: 300px;
+    height: auto;
+    border: 1px solid #333; /* Borda sólida de 1px */
+    margin-top: 20px;
+}
+
+.sessaoIngredientes,
+.sessaoPreparo {
+    border: 1px solid #333; /* Borda sólida de 1px */
+    padding: 10px;
+    margin-top: 20px;
+}
